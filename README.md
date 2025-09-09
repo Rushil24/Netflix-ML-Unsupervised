@@ -11,19 +11,32 @@ Netflix has an ever-growing library of Movies and TV Shows. Understanding produc
 The dataset contains the following features:
 
 Column	Description
+
 show_id	Unique ID for each Movie/TV Show
+
 type	Movie or TV Show
+
 title	Name of the Movie/Show
+
 director	Director of the show
+
 cast	List of actors
+
 country	Country of production
+
 date_added	Date it was added on Netflix
+
 release_year	Actual release year
+
 rating	TV rating of the show
+
 duration	Minutes or Seasons
+
 listed_in	Genre(s)
+
 description	Summary description
-Project Steps
+
+# Project Steps
 
 ## Data Wrangling & Preprocessing
 
@@ -95,7 +108,7 @@ Generative AI – Text preprocessing & vectorization for NLP tasks
 
 Visualization – Distribution plots, Countplots, Pairplots, Heatmaps
 
-## Run Jupyter Notebook Netflix_Capstone_Project.ipynb to see the analysis, ML model training, and evaluation.
+### Run Jupyter Notebook Netflix_Capstone_Project.ipynb to see the analysis, ML model training, and evaluation.
 
 ### Author
 

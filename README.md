@@ -10,31 +10,31 @@ Netflix has an ever-growing library of Movies and TV Shows. Understanding produc
 ## Dataset Description
 The dataset contains the following features:
 
-Column	Description
+Column	: Description
 
-show_id	Unique ID for each Movie/TV Show
+show_id	: Unique ID for each Movie/TV Show
 
-type	Movie or TV Show
+type    :	Movie or TV Show
 
-title	Name of the Movie/Show
+title   :	Name of the Movie/Show
 
-director	Director of the show
+director:	Director of the show
 
-cast	List of actors
+cast	  : List of actors
 
-country	Country of production
+country	: Country of production
 
-date_added	Date it was added on Netflix
+date_added:	Date it was added on Netflix
 
-release_year	Actual release year
+release_year:	Actual release year
 
-rating	TV rating of the show
+rating  :	TV rating of the show
 
-duration	Minutes or Seasons
+duration:	Minutes or Seasons
 
-listed_in	Genre(s)
+listed_in:	Genre(s)
 
-description	Summary description
+description:	Summary description
 
 # Project Steps
 
